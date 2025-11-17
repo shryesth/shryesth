@@ -70,13 +70,6 @@ Currently building **GenAI chatbots at FactSet** (Star Award Winner 2025) and sc
 
 ---
 
-## 🎓 Education
-
-**B.Tech. Computer Science Engineering (Data Science & AI)**  
-SRM University, Delhi-NCR | GPA: 8.65/10 | 2020-2024
-
----
-
 ## 🏅 Achievements & Certifications
 
 - 🌟 **Star Award - FactSet Research Systems 2025** (GenAI & Chatbot Contributions)
