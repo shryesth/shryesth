@@ -1,79 +1,77 @@
 # 👋 Hey, I'm Shryesth Pandey
 
-🚀 **Backend Engineer | AI Systems | Fintech Infrastructure**
+🚀 **Backend Engineer | AI Systems | RAG Pipelines | Agentic Workflows**
 
-I specialize in building **AI-powered systems** and **scalable backend platforms** using multi-LLM orchestration, RAG pipelines, and production-grade APIs. Currently building **GenAI chatbots at FactSet** (Star Award Winner 2025) with proven impact reducing support queries by 40% and scaling organizational AI adoption from 15% to 35%.
+I build **production-grade AI backends** — RAG pipelines, LLM-powered chatbots, multi-agent systems, and scalable APIs. Currently shipping GenAI products at **FactSet** (⭐ Star Award 2025).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shryesth)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shryesth)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shryesth4236@gmail.com)
+
+---
+
+## ⚡ What I'm Building Now
+
+- 🤖 **Out-of-Office AI Agent** — Workday + Outlook automation with policy enforcement & approval logic (FactSet)
+- 📊 **FAQ Generation + Analytics System** — RAG-powered reporting from ticketing data with executive insights
+- 🎙️ **AI Voice Agent** — Real-time voice conversations with LLM + STT/TTS pipeline
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend & APIs:** Node.js • Express • Python • FastAPI • RESTful APIs • WebSocket • JWT Auth  
-**Databases:** PostgreSQL • MongoDB • Redis • Neo4j • ChromaDB • Weaviate • Prisma ORM  
-**AI/ML Systems:** OpenAI • Claude • Gemini • RAG Pipelines • LangChain • LlamaIndex • Vector Search  
-**Cloud & DevOps:** AWS (EC2, S3, Lambda) • Docker • PM2 • CI/CD • Nginx  
-**Fintech APIs:** Plaid • Unit Banking • Stripe • OAuth & Webhooks  
-**Other:** Bull Queue • Celery • Async Processing • Database Optimization
+**Backend & APIs**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**AI / LLM Stack**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏆 Associate Product Specialist - Chatbots & GenAI | FactSet
-**Oct 2025 - Present**
+### 🏆 Associate Product Specialist — Chatbots & GenAI | FactSet
+**Oct 2025 – Present**
+- ⭐ Received **FactSet Star Award 2025** for GenAI and chatbot contributions
+- Eliminated **40% of support queries** by shipping AI chatbot to production
+- Improved retrieval accuracy **65% → 85%** via normalized chunking + hybrid RAG
+- Scaled AI adoption **15% → 35%** across 8+ teams, reducing deploy time by 30%
+- Built Markdown/PDF/Excel parser reducing chatbot deployment pipeline: **4 hrs → 15 min**
 
-- Received **FactSet's Star Award 2025** for GenAI and chatbot technical contributions
-- Eliminated **40% of support queries** by building production AI chatbot with multi-format document parsing
-- Improved retrieval accuracy from **65% → 85%** through normalized chunking and RAG pipeline optimization
-- Scaled AI adoption from **15% → 35%** across organization, enabling 8+ teams to deploy chatbots **30% faster**
-
-### 🎓 AI and Software Development Intern | The Mango Jelly
-**Apr 2024 - Aug 2024**
-
-Contributed to backend and AI platform development for early-stage SaaS startup:
-
-- **Multi-Tenant SaaS Platform:** Developed 20+ RESTful API endpoints for authentication, payments, and AI service integration; implemented multi-LLM routing (Claude/GPT/Gemini) for cost optimization
-- **Enterprise Data Integration:** Built OAuth2 modules for Google Analytics, Snowflake, PostgreSQL with AES-256-GCM encryption; created NLP query interface for BigQuery, HubSpot, Shopify
-- **AI Research Automation:** Implemented autonomous research platform reducing manual work from 40+ hours to <2 hours using web scraping and hybrid vector search
-- **Game Creation Platform:** Developed FastAPI backend generating HTML5 games from natural language in <2 minutes with async task management
+### 🎓 AI & Software Developer | The Mango Jelly
+**Apr 2024 – Aug 2024**
+- Built **multi-agent LLM workflows** for query routing and task orchestration
+- Engineered **20+ REST APIs** on a multi-tenant SaaS platform on public cloud
+- Created AI research automation tool reducing manual work from **40+ hrs to <2 hrs**
+- Developed FastAPI backend for game creation from natural language in **<2 minutes**
 
 ---
 
-## 🚀 Independent Technical Projects
+## 🚀 Featured Projects
 
-### Fintech Transaction Platform
-**Node.js, PostgreSQL, Plaid, Stripe, Unit Banking | 2025**
-
-Built MVP to simplify fragmented banking experience:
-- Integrated Plaid, Unit Banking, and Stripe APIs for transaction processing and account aggregation
-- Reduced manual expense tracking by **95%** (5 min → 15 sec) using OCR + OpenAI categorization
-- Implemented JWT rotation, bcrypt hashing, S3 encryption, Docker CI/CD
-
-### Personalized Meditation Platform
-**Python, FastAPI, OpenAI, AWS Polly | 2024**
-
-- Built FastAPI backend with OpenAI and AWS Polly for custom audio streaming in <200ms
-- Implemented JWT auth, PostgreSQL user management, S3 storage
-- Deployed on AWS EC2 with Docker-based CI/CD
-
----
-
-## 🏆 Featured Projects
-
-### 360° News Feedback System
-**Smart India Hackathon Grand Finalist (Nov 2023)**
-
-Built real-time news tracking app in 4 weeks designed to reduce crisis-escalation time through automated sentiment analysis and geographic clustering.
-
-### Text-to-Video Generator
-**Oct-Dec 2023**
-
-Automated video generation system for press releases using TTS and image synthesis, reducing manual video creation from hours to minutes.
-
-### AI Conversational Tool
-**Dec 2023-Jan 2024**
-
-Multilingual conversational AI service using LLaMA-2/BART for query handling and automated summarization across 5+ languages.
+| Project | Stack | Highlights |
+|--------|-------|------------|
+| **AI Voice Agent** | Python, FastAPI, LLM, STT/TTS | Real-time voice conversations with LLM backend |
+| **Fintech Transaction Platform** | Node.js, PostgreSQL, Plaid, Stripe | Reduced expense tracking: **5 min → 15 sec (95%)** |
+| **Personalized Meditation Platform** | FastAPI, OpenAI, AWS Polly | Custom audio in **<200ms**, deployed on AWS EC2 |
+| **360° News Feedback System** | Python, NLP | SIH Grand Finalist 2023 — Top 1% of 50K+ teams |
+| **Text-to-Video Generator** | Python, BART, OpenCV | Auto video from press releases via NLP + TTS |
 
 ---
 
@@ -85,32 +83,27 @@ Multilingual conversational AI service using LLaMA-2/BART for query handling and
 
 ## 🏅 Achievements & Certifications
 
-- 🌟 **Star Award** - FactSet Research Systems (2025) for GenAI & Chatbot Contributions
-- 🏆 **Grand Finalist** - Smart India Hackathon 2023 & 2022 (Top 1% of 50K+ teams)
-- 🥇 **Winner** - Toycathon 2021 Digital Edition ("Project Mythos")
-- 📜 **Generative AI Application Development** - Databricks (Mar 2025)
-- 📜 **Generative AI Solutions Development** - Databricks (Mar 2025)
-- 📜 **The MCP Course** - Hugging Face (Jun 2025)
-- 📜 **Databricks Fundamentals** - Databricks (Valid till Mar 2026)
-- 👨‍💼 **Coordinator** - Center for Innovation & Entrepreneurship (2021-2023)
-  - Organized hackathons and mentored 120+ students in IoT/embedded systems
+- 🌟 **Star Award** — FactSet Research Systems (2025) for GenAI & Chatbot Contributions
+- 🏆 **Grand Finalist** — Smart India Hackathon 2023 & 2022 (Top 1% of 50K+ teams)
+- 🥇 **Winner** — Toycathon 2021 Digital Edition
+- 📜 **Generative AI Application Development** — Databricks (Mar 2025)
+- 📜 **Generative AI Solutions Development** — Databricks (Mar 2025)
+- 📜 **The MCP Course** — Hugging Face (Jun 2025)
 
 ---
 
 ## 🎓 Education
 
 **B.Tech. Computer Science & Engineering (Data Science & AI)**  
-SRM University, Delhi-NCR Sonipat | GPA: 8.65/10 | 2020-2024
+SRM University, Delhi-NCR Sonipat | GPA: 8.65/10 | 2020–2024
 
 ---
 
 ## 🌍 Let's Connect
 
 📧 **Email:** shryesth4236@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/shryesth-pandey](https://linkedin.com/in/shryesth)  
+💼 **LinkedIn:** [linkedin.com/in/shryesth](https://linkedin.com/in/shryesth)  
 💻 **GitHub:** [github.com/shryesth](https://github.com/shryesth)
 
----
-
-💡 **Currently:** Building AI chatbots at FactSet, exploring agentic workflows, and scaling enterprise AI adoption  
-🚀 **Open to:** Backend engineering roles, AI/ML projects, and startup opportunities in fintech or SaaS
+> 💡 **Currently:** Building AI agents at FactSet, exploring agentic workflows & MCP  
+> 🚀 **Open to:** Backend engineering, AI/ML freelance projects, and full-time GenAI roles
