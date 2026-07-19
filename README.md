@@ -1,109 +1,77 @@
 # 👋 Hey, I'm Shryesth Pandey
 
-🚀 **Backend Engineer | AI Systems | RAG Pipelines | Agentic Workflows**
+**Backend Engineer · RAG & LLM Systems · AI Agents**
 
-I build **production-grade AI backends** — RAG pipelines, LLM-powered chatbots, multi-agent systems, and scalable APIs. Currently shipping GenAI products at **FactSet** (⭐ Star Award 2025).
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shryesth)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shryesth)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shryesth4236@gmail.com)
+I ship production AI backends: RAG pipelines, LLM chatbots, multi-agent systems, and high-throughput APIs.  
+At FactSet, I work on symbology systems serving millions of requests per day and ship AI agents used across the company.  
+On the side, I’ve built full-stack products in fintech, lead-gen SaaS, voice AI, and audit SaaS.
 
 ---
 
-## ⚡ What I'm Building Now
+## ⚙️ Current Focus
 
-- 🤖 **Out-of-Office AI Agent** — Workday + Outlook automation with policy enforcement & approval logic (FactSet)
-- 📊 **FAQ Generation + Analytics System** — RAG-powered reporting from ticketing data with executive insights
-- 🎙️ **AI Voice Agent** — Real-time voice conversations with LLM + STT/TTS pipeline
-
----
-
-## 🛠️ Tech Stack
-
-**Backend & APIs**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**AI / LLM Stack**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square)
-
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- High-throughput backends in **Python / TypeScript** (FastAPI, Node.js, Express, Next.js)
+- RAG pipelines, **LLM gateways**, observability, and evaluation
+- AI agents (reasoning, tools, MCP/FastMCP) and event-driven systems
+- GraphQL + REST APIs, queues, and real-time infra (WebSockets, SSE)
 
 ---
 
-## 💼 Professional Experience
+## 🛠 Tech Snapshot
 
-### 🏆 Associate Product Specialist — Chatbots & GenAI | FactSet
-**Oct 2025 – Present**
-- ⭐ Received **FactSet Star Award 2025** for GenAI and chatbot contributions
-- Eliminated **40% of support queries** by shipping AI chatbot to production
-- Improved retrieval accuracy **65% → 85%** via normalized chunking + hybrid RAG
-- Scaled AI adoption **15% → 35%** across 8+ teams, reducing deploy time by 30%
-- Built Markdown/PDF/Excel parser reducing chatbot deployment pipeline: **4 hrs → 15 min**
+**Backend & Datastores**  
+TypeScript, JavaScript, Python · Node.js, FastAPI, Express, Next.js · PostgreSQL, MongoDB, Redis · Prisma, BullMQ, Celery
 
-### 🎓 AI & Software Developer | The Mango Jelly
-**Apr 2024 – Aug 2024**
-- Built **multi-agent LLM workflows** for query routing and task orchestration
-- Engineered **20+ REST APIs** on a multi-tenant SaaS platform on public cloud
-- Created AI research automation tool reducing manual work from **40+ hrs to <2 hrs**
-- Developed FastAPI backend for game creation from natural language in **<2 minutes**
+**AI / RAG / Data**  
+OpenAI, Claude, Gemini · LangChain, LlamaIndex · ChromaDB, Weaviate, Neo4j · Snowflake, BigQuery, Tesseract OCR
+
+**LLM Ops & Infra**  
+LLM gateways (multi-model routing, fallback/retries) · Langfuse, Arize Phoenix · Prometheus, GitHub Actions · AWS EC2/S3, Docker, CapRover
+
+**Integrations**  
+Twilio, Pipecat, Plaid, Playwright, Hunter.io
 
 ---
 
-## 🚀 Featured Projects
+## 💼 What I Do at FactSet
 
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| **AI Voice Agent** | Python, FastAPI, LLM, STT/TTS | Real-time voice conversations with LLM backend |
-| **Fintech Transaction Platform** | Node.js, PostgreSQL, Plaid, Stripe | Reduced expense tracking: **5 min → 15 sec (95%)** |
-| **Personalized Meditation Platform** | FastAPI, OpenAI, AWS Polly | Custom audio in **<200ms**, deployed on AWS EC2 |
-| **360° News Feedback System** | Python, NLP | SIH Grand Finalist 2023 — Top 1% of 50K+ teams |
-| **Text-to-Video Generator** | Python, BART, OpenCV | Auto video from press releases via NLP + TTS |
+**Software Engineer I – Symbology, Chatbots & GenAI**
+
+- Migrating a mission-critical **symbology system** from Perl → Python (~5M requests/day) and designing a high-speed **GraphQL API** for it.
+- Owning a **production RAG pipeline** and a **multi-model LLM gateway** (OpenAI, Claude, Gemini) with observability and evaluation.
+- Shipping internal AI tools: a company-wide **Out-of-Office AI agent**, document-to-Markdown GitHub Action, and an internal **MCP server (FastMCP)**.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projects to Check Out
 
-![Shryesth's GitHub stats](https://github-readme-stats.vercel.app/api?username=shryesth&show_icons=true&theme=radical)
+- **AnkFin – AI Money Management**  
+  Full-stack fintech platform with Plaid banking sync, rate-limited APIs, subscriptions, OCR, and an agentic chat for cash-flow forecasting.
 
----
+- **ProfileScout.io – Lead-Gen SaaS**  
+  Converts natural-language queries into LinkedIn X-ray search with AI filters, Hunter.io enrichment, bulk outreach, and BullMQ queues.
 
-## 🏅 Achievements & Certifications
+- **AI Calling Agent – Voice Feedback Agent**  
+  4-language voice AI agent (OpenAI Realtime, Pipecat, Twilio WebSocket) automating feedback calls with monitoring and DLQ alerting.
 
-- 🌟 **Star Award** — FactSet Research Systems (2025) for GenAI & Chatbot Contributions
-- 🏆 **Grand Finalist** — Smart India Hackathon 2023 & 2022 (Top 1% of 50K+ teams)
-- 🥇 **Winner** — Toycathon 2021 Digital Edition
-- 📜 **Generative AI Application Development** — Databricks (Mar 2025)
-- 📜 **Generative AI Solutions Development** — Databricks (Mar 2025)
-- 📜 **The MCP Course** — Hugging Face (Jun 2025)
+- **Qualxl – Audit Workflow SaaS**  
+  Multi-tenant audit SaaS (FastAPI, Next.js, PostgreSQL, Redis, Celery) with RBAC, OTP 2FA, async ingestion, and SSE progress.
 
----
-
-## 🎓 Education
-
-**B.Tech. Computer Science & Engineering (Data Science & AI)**  
-SRM University, Delhi-NCR Sonipat | GPA: 8.65/10 | 2020–2024
+> Check my **pinned repositories** for code for these projects, RAG pipelines, and AI agents.
 
 ---
 
-## 🌍 Let's Connect
+## 🏅 Highlights
 
-📧 **Email:** shryesth4236@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/shryesth](https://linkedin.com/in/shryesth)  
-💻 **GitHub:** [github.com/shryesth](https://github.com/shryesth)
+- FactSet **Star Award** (GenAI & chatbot work)  
+- **Smart India Hackathon** Grand Finalist (2022 & 2023)  
+- **Toycathon 2021** Digital Edition Winner  
+- Generative AI certifications (Databricks) and **MCP Course** (Hugging Face)
 
-> 💡 **Currently:** Building AI agents at FactSet, exploring agentic workflows & MCP  
-> 🚀 **Open to:** Backend engineering, AI/ML freelance projects, and full-time GenAI roles
+---
+
+## 🌍 Connect
+
+📧 `shryesth4236@gmail.com`  
+🔗 [linkedin.com/in/shryesth](https://linkedin.com/in/shryesth)  
+💻 [github.com/shryesth](https://github.com/shryesth)
